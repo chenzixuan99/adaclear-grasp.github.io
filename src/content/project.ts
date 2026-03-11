@@ -32,15 +32,15 @@ export const project: ProjectContent = {
   title:
     "AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments",
   authors: [
-    { name: 'Zixuan Chen', homepage: 'https://chenzixuan99.github.io', affIds: [1], star: true },
+    { name: 'Zixuan Chen', homepage: 'https://chenzixuan99.github.io/homepage/', affIds: [1], star: true },
     { name: 'Wenquan Zhang', affIds: [1], star: true },
     { name: 'Jing Fang', affIds: [2] },
     { name: 'Ruiming Zeng', affIds: [1] },
-    { name: 'Zhixuan Xu', affIds: [3] },
-    { name: 'Yiwen Hou', affIds: [3] },
+    { name: 'Zhixuan Xu', homepage: 'https://ariszxxu.github.io/', affIds: [3] },
+    { name: 'Yiwen Hou', homepage: 'https://houyiwen.github.io/', affIds: [3] },
     { name: 'Xinke Wang', affIds: [1] },
-    { name: 'Jieqi Shi', affIds: [1] },
-    { name: 'Jing Huo', affIds: [1] },
+    { name: 'Jieqi Shi', homepage: 'https://jayceeshi.github.io/', affIds: [1] },
+    { name: 'Jing Huo', homepage: 'https://cs.nju.edu.cn/huojing/', affIds: [1] },
     { name: 'Yang Gao', affIds: [1] },
   ],
   affiliations: [
