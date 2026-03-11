@@ -63,5 +63,5 @@ watch(
 )
 
 const buildSrc = (domain: 'sim' | 'real', object: string, obstacles: Obstacles, run: number) =>
-  `/videos/${domain}/${object}/${obstacles}/${run}/0.mp4`
+  `./videos/${domain}/${object}/${obstacles}/${run}/0.mp4`
 </script>

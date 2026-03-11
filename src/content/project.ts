@@ -50,7 +50,7 @@ export const project: ProjectContent = {
   ],
 
   links: [
-    { label: "Paper", href: "/paper/paper.pdf" },
+    { label: "Paper", href: "./paper/paper.pdf" },
     { label: "Code", href: "https://github.com/your/repo" },
   ],
 
@@ -89,12 +89,12 @@ environments.`,
 
   teaser: {
     title: "Teaser",
-    src: "/images/teaser.webp",
+    src: "./images/teaser.webp",
     caption: "One-sentence teaser.",
   },
   pipeline: {
     title: "Pipeline",
-    src: "/images/pipeline.webp",
+    src: "./images/pipeline.webp",
     caption: "pipeline overview.",
   },
 
@@ -104,12 +104,12 @@ environments.`,
       items: [
         {
           title: "Sim Case 1",
-          src: "/videos/sim/sim_case1.mp4",
+          src: "./videos/sim/sim_case1.mp4",
           note: "Policy A",
         },
         {
           title: "Sim Case 2",
-          src: "/videos/sim/sim_case2.mp4",
+          src: "./videos/sim/sim_case2.mp4",
           note: "Policy B",
         },
       ],
@@ -117,15 +117,15 @@ environments.`,
     {
       category: "Real-world",
       items: [
-        { title: "Real Demo 1", src: "/videos/real/real_case1.mp4" },
-        { title: "Real Demo 2", src: "/videos/real/real_case2.mp4" },
+        { title: "Real Demo 1", src: "./videos/real/real_case1.mp4" },
+        { title: "Real Demo 2", src: "./videos/real/real_case2.mp4" },
       ],
     },
   ],
 
   protocol: {
     text: "Released under MIT License. Dataset is for academic use only.",
-    pdf: "/paper/paper.pdf",
+    pdf: "./paper/paper.pdf",
     license: "MIT",
   },
 

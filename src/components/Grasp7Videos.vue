@@ -24,7 +24,7 @@
             preload="metadata"
             playsinline
           >
-            <source :src="`/videos/grasp7/${item}.mp4`" type="video/mp4" />
+            <source :src="`./videos/grasp7/${item}.mp4`" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
