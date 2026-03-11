@@ -89,8 +89,8 @@ environments.`,
 
   teaser: {
     title: "Teaser",
-    src: "./images/teaser.webp",
-    caption: "One-sentence teaser.",
+    src: "./videos/adacleagrasp_video4.mp4",
+    caption: "",
   },
   pipeline: {
     title: "Pipeline",
