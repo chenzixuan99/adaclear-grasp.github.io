@@ -40,13 +40,13 @@
         </p>
       </div>
 
-      <!-- <div class="flex justify-center gap-3 flex-wrap pt-2">
+      <div class="flex justify-center gap-3 flex-wrap pt-2">
         <a v-for="l in project.links" :key="l.label" class="px-5 py-2.5 text-base font-semibold rounded-xl border-2 border-blue-200
                  text-blue-700  hover:border-blue-400 transition-all duration-200 shadow-sm" :href="l.href"
           target="_blank" rel="noreferrer">
           {{ l.label }}
         </a>
-      </div> -->
+      </div>
     </header>
 
 
