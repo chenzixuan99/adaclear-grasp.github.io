@@ -50,7 +50,7 @@ export const project: ProjectContent = {
   ],
 
   links: [
-    { label: "Paper", href: "./paper/paper.pdf" },
+    { label: "Paper", href: "https://arxiv.org/pdf/2603.10616" },
     { label: "Code (Coming Soon)", href: "#" },
   ],
 
