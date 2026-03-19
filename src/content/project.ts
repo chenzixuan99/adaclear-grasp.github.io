@@ -51,7 +51,7 @@ export const project: ProjectContent = {
 
   links: [
     { label: "Paper", href: "https://arxiv.org/pdf/2603.10616" },
-    { label: "Code (Coming Soon)", href: "#" },
+    { label: "Code", href: "https://github.com/NJU-R-L-Group-Embodied-Lab/AdaClearGrasp" },
   ],
 
   abstract:
